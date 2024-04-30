@@ -39,7 +39,8 @@ My project portfolio underscores my skillset across the three aforementioned IT 
 
 
 <h2> 🧰 Skillsets </h2>
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+List of skills and their associated projects.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -51,7 +52,8 @@ My project portfolio underscores my skillset across the three aforementioned IT 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 <h2> 🛠️ Tools </h2>
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+This is a breakdown of the tools in my toolkit.
 
 ### Network
 <div>
@@ -74,7 +76,7 @@ My project portfolio underscores my skillset across the three aforementioned IT 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+  
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -82,11 +84,17 @@ My project portfolio underscores my skillset across the three aforementioned IT 
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+<h3> </h3>  
 
+- [Google Cybersecurity - Professional Certificate](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
+- [Microsoft Cybersecurity Analyst Certificate - Microsoft Professional Certificate](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
+- [IT Automation with Python - Google Professional Certificate](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
+- [IT Support - Google Professional Certificate](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
+<h2> </h2>
 
 <h2>📺 Formal Education</h2>
 
-- [Bsc in Cybersecurity - IU International University of Applied Sciences](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Bsc in Cybersecurity - IU International University of Applied Sciences](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
 - Beng in Chemical Engineering - National University of Science and Technology
   - Incomplete - Relevant Courses include: Engineering Mathematics, Computation Methods, Computer Science and Programming
 
