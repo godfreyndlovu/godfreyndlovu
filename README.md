@@ -115,7 +115,7 @@ This is a breakdown of the tools in my toolkit.
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMakador | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
-[twitter]: https://github.com/godfreyndlovu
+[twitter]: https://twitter.com/godfreyndlovu3
 [youtube]: https://www.youtube.com/@securitysentinel
 [Email]: mailto:ndlovugodfrey0@gmail.com
 [linkedin]: https://linkedin.com/in/godfreyndlovu
