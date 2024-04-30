@@ -5,7 +5,7 @@ I am an aspiring Cloud Security Engineer with a profound interest in IT security
 
 <h2> 👨‍💻 Projects Overview </h2>
 
-Throughout my IT journey, I've committed to developing my expertise in cybersecurity, with a special focus on Azure cloud. I'm keen on securing entry-level roles in Security Operations Center (SOC) as a Tier 1 Analyst, or in junior Cloud/System Administration.
+In my IT journey, I've committed to developing my expertise in cybersecurity, with a special focus on Azure cloud. I'm keen on securing entry-level roles in Security Operations Center (SOC) as a Tier 1 Analyst, or in junior Cloud/System Administration.
 My project portfolio underscores my skillset across the three aforementioned IT domains.
   
 <h3> Cybersecurity Labs:</h3>
