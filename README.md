@@ -113,11 +113,11 @@ This is a breakdown of the tools in my toolkit.
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMakador | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
 [twitter]: https://github.com/godfreyndlovu
 [youtube]: https://www.youtube.com/@securitysentinel
-[instagram]: https://github.com/godfreyndlovu
+[Email]: mailto:ndlovugodfrey0@gmail.com
 [linkedin]: https://linkedin.com/in/godfreyndlovu
 
 <!--
