@@ -5,7 +5,8 @@ I am an aspiring Cloud Security Engineer with a profound interest in IT security
 
 <h2> 👨‍💻 Projects Overview </h2>
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+In my journey through IT, I've committed to developing my expertise in cybersecurity, with a special focus on Azure cloud. I'm keen on securing entry-level roles in Security Operations Center (SOC) as a Tier 1 Analyst, or in junior Cloud/System Administration.
+My project portfolio underscores my skillset across the three aforementioned IT domains.
   
 <h3> Cybersecurity Labs:</h3>
 
@@ -34,6 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+
 
 
 <h2> 🧰 Skillsets </h2>
@@ -81,18 +83,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
 
-
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Formal Education</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+
+## Notable Soft Skills
+- Highly Adaptable
+- Strong written and verbal communication skills
+- Problem Solving Ability 
+- Highly Collaborative
+- Curious Continuous Learner
+- Significant Business Acumen
+- Customer Service Orientation
 
 <h2> 🤳 Connect with me:</h2>
 
