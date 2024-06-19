@@ -44,12 +44,12 @@ List of skills and their associated projects.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Audit and Risk Assessment Report          | <a href="https://google.com">Risk Management Lab</a>|
+| Managing File Permissions | <a href="https://google.com">Access Control Lab</a>|
+| Applying Filters to SQL Queries         | SQL Lab|
+| Vulnerability Assessment using NIST SP 800-30 Rev.1      | SOC Automation Lab|
+| Packet Capture Analysis (Wireshark & tcpdump)                  | Network Analysis Lab|
+| SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 
 <h2> 🛠️ Tools </h2>
 
