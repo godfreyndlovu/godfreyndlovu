@@ -44,7 +44,7 @@ List of skills and their associated projects.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Audit and Risk Assessment Report          | <a href="https://google.com">Risk Management Lab</a>|
+| Conducting a Security Audit and Risk Assessment Reporting          | <a href="https://google.com">Risk Management Lab</a>|
 | Managing File Permissions | <a href="https://google.com">Access Control Lab</a>|
 | Applying Filters to SQL Queries         | SQL Lab|
 | Vulnerability Assessment using NIST SP 800-30 Rev.1      | SOC Automation Lab|
