@@ -47,7 +47,7 @@ List of skills and their associated projects.
 | Conducting a Security Audit and Risk Assessment Reporting          | <a href="https://github.com/godfreyndlovu/Risk-Management-Lab/blob/main/README.md">Risk Management Lab</a>|
 | Managing Authorization | <a href="https://github.com/godfreyndlovu/Managing-Authorization/blob/main/README.md">File Permissions Lab</a>|
 | Applying Filters to SQL Queries         | <a href="https://github.com/godfreyndlovu/Applying-filters-to-SQL-queries/blob/main/README.md">SQL Lab</a>|
-| Vulnerability Assessment using NIST SP 800-30 Rev.1      | SOC Automation Lab|
+| Vulnerability Assessment using NIST SP 800-30 Rev.1      | Vulnerability Assessment Lab|
 | Packet Capture Analysis (Wireshark & tcpdump)                  | Network Analysis Lab|
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 
