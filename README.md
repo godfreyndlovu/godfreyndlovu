@@ -98,7 +98,7 @@ This is a breakdown of the tools in my toolkit.
 
 - [Bsc in Cybersecurity - IU International University of Applied Sciences](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
 - Beng in Chemical Engineering - National University of Science and Technology
-  - Incomplete - Relevant Courses include: Engineering Mathematics, Computation Methods, Computer Science and Programming
+  - Relevant Courses include: Engineering Mathematics, Computation Methods, Computer Science and Programming
 
 
 ## Notable Soft Skills
