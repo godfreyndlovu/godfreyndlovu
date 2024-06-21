@@ -50,6 +50,7 @@ List of skills and their associated projects.
 | Vulnerability Assessment using NIST SP 800-30 Rev.1      | <a href="https://github.com/godfreyndlovu/Conducting-a-Vulnerability-Assessment/blob/main/README.md">Vulnerability Assessment Lab</a>|
 | Packet Capture Analysis (Wireshark & tcpdump)                  | Network Analysis Lab|
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
+| Incident Handler's Journal      | <a href="https://github.com/godfreyndlovu/Incident-Handler-Journal/blob/main/README.md">Incident Handler Lab</a>|
 
 <h2> 🛠️ Tools </h2>
 
