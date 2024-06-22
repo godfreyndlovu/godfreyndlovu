@@ -48,7 +48,7 @@ List of skills and their associated projects.
 | Managing Authorization | <a href="https://github.com/godfreyndlovu/Managing-Authorization/blob/main/README.md">File Permissions Lab</a>|
 | Applying Filters to SQL Queries         | <a href="https://github.com/godfreyndlovu/Applying-filters-to-SQL-queries/blob/main/README.md">SQL Lab</a>|
 | Vulnerability Assessment using NIST SP 800-30 Rev.1      | <a href="https://github.com/godfreyndlovu/Conducting-a-Vulnerability-Assessment/blob/main/README.md">Vulnerability Assessment Lab</a>|
-| Packet Capture Analysis (Wireshark & tcpdump)                  | Network Analysis Lab|
+| Packet Capture Analysis (Wireshark & tcpdump)                  |<a href="https://github.com/godfreyndlovu/Network-Analysis-Lab/tree/main">Network Analysis Lab</a>|
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 | Incident Handler's Journal      | <a href="https://github.com/godfreyndlovu/Incident-Handler-Journal/blob/main/README.md">Incident Handler Lab</a>|
 
