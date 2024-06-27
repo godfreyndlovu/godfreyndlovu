@@ -9,35 +9,6 @@ In my IT journey, I've committed to developing my expertise in cybersecurity, wi
 My project portfolio underscores my skillset across the three aforementioned IT domains.
   
 <h3> Cybersecurity Labs:</h3>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
- 
-
-<h3> Cloud Projects:</h3>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-
-<h3> Other IT Projects:</h3>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-
-
-
 <h2> 🧰 Skillsets </h2>
 
 List of skills and their associated projects.
@@ -79,26 +50,19 @@ This is a breakdown of the tools in my toolkit.
 ## Certifications
   
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/GodfreyNdlovu-1155/4BE5C64F76B8E755?sharingId"><img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
 </div>
 <h3> </h3>  
 
 - [Google Cybersecurity - Professional Certificate](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
-- [Microsoft Cybersecurity Analyst - Microsoft Professional Certificate](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
-- [Microsoft Cloud Support Associate - Microsoft Professional Certificate](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
-- [IT Automation with Python - Google Professional Certificate](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
 - [IT Support - Google Professional Certificate](https://www.credly.com/badges/d9627348-3f37-4dd3-84ee-bda9740eccbf/public_url)
 - [Cybersecurity Fundamentals - IBM SkillsBuild](https://www.credly.com/badges/a5cd010c-180c-491a-8fc5-d32b7efdf20c/public_url)
 <h2> </h2>
 
 <h2>📺 Formal Education</h2>
 
-- [Bsc in Cybersecurity - IU International University of Applied Sciences](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
-- Beng in Chemical Engineering - National University of Science and Technology
+- Bsc in Cybersecurity - IU International University of Applied Sciences
+- B.Eng in Chemical Engineering - National University of Science and Technology
   - Relevant Coursework: Computer Science and Programming
 
 
