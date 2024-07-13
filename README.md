@@ -1,7 +1,7 @@
-# Hi there, I'm Godfrey!
+# Hello there, I'm Godfrey!
 <a href="https://linkedin.com/in/godfreyndlovu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring Cloud Security Engineer with a profound interest in IT security and Cloud Technologies.
+I am an aspiring Security Analyst with a profound interest in IT security and Azure Cloud.
 
 <h2> 👨‍💻 Projects Overview </h2>
 
