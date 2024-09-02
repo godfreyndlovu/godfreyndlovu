@@ -50,6 +50,7 @@ This is a breakdown of the tools in my toolkit.
 ## Certifications
   
 <div>
+<a href="https://www.credly.com/badges/19126e04-48db-456e-b00e-3ddb1fb96be1/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/GodfreyNdlovu-1155/DA236E05AC868E6D?sharingId=4A8D1C963BE0F953"><img src="https://img.shields.io/badge/SC--900:_Microsoft%20Security,%20Compliance,%20and%20Identity-blue?style=for-the-badge&logo=microsoft" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/GodfreyNdlovu-1155/FBD585E1AC547568?sharingId=4A8D1C963BE0F953"><img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/GodfreyNdlovu-1155/4BE5C64F76B8E755?sharingId"><img src="https://img.shields.io/badge/AI--900:_Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
