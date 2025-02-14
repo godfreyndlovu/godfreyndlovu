@@ -6,11 +6,6 @@
       <img src="terminal (2).gif" alt="About Me Terminal GIF"/>
 </div>
 
-899499
-708090
-
-0:0A0A0A,100:3C4142
-
 ### My Mission
 I am an early-career cybersecurity professional specializing in Security Operations and Cloud Security. My mission is to protect digital ecosystems by integrating technical expertise with strategic security solutions, enabling businesses to thrive securely. I strive to empower organizations with resilient defenses, foster collaboration, and drive impactful security initiatives that ensure a safer cyber landscape and uninterrupted business operations.
   
