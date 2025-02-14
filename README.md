@@ -2,7 +2,9 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=400&size=22&duration=4500&pause=500&color=36454F&width=435&lines=Hello+there%2C+I'm+Godfrey+Ndlovu;Thank+you+for+stopping+by:)" alt="Thank you for stopping by!"/>
 </a>
-
+<div>
+                 <img src="terminal.gif" alt="About Me Terminal GIF"/>
+</div>
 
 
 <a href="https://linkedin.com/in/godfreyndlovu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
