@@ -21,11 +21,13 @@ I am an early-career cybersecurity professional specializing in Security Operati
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 | Incident Handler's Journal      | <a href="https://github.com/godfreyndlovu/Incident-Handler-Journal/blob/main/README.md">Incident Handler Lab</a>|
 
+
 ### Tools
 
 #### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-708090?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
@@ -41,12 +43,23 @@ I am an early-career cybersecurity professional specializing in Security Operati
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Chronicle-00610e?&style=for-the-badge&logo=Chronicle&logoColor=white" />
+
+#### Cloud Platforms
+[![Learning](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)
+
+#### Operating Systems
+[![Learning](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
+#### Languages and CLIs
+[![Learning](https://skillicons.dev/icons?i=python,bash,powershell)](https://skillicons.dev)
 </div>
 
 ### Certifications
   
 <div>
 <a href="https://www.credly.com/badges/19126e04-48db-456e-b00e-3ddb1fb96be1/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/GodfreyNdlovu-1155/937B092EF1A34EAD?sharingId=4A8D1C963BE0F953" /><img src="https://img.shields.io/badge/SC--200:_Microsoft%20Security%20Operations-blue?style=for-the-badge&logo=microsoft" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/GodfreyNdlovu-1155/DA236E05AC868E6D?sharingId=4A8D1C963BE0F953"><img src="https://img.shields.io/badge/SC--900:_Microsoft%20Security,%20Compliance,%20and%20Identity-blue?style=for-the-badge&logo=microsoft" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/GodfreyNdlovu-1155/FBD585E1AC547568?sharingId=4A8D1C963BE0F953"><img src="https://img.shields.io/badge/AZ--900:_Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/GodfreyNdlovu-1155/4BE5C64F76B8E755?sharingId"><img src="https://img.shields.io/badge/AI--900:_Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoft" />
