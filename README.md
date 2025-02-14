@@ -97,7 +97,7 @@ I am an early-career cybersecurity professional specializing in Security Operati
   </a>
 
 ### Employer?
-
+- [Download My Resume ▼](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
 
 ### Connect with me 🤳
 
