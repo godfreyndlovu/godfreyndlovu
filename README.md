@@ -21,7 +21,6 @@ I am an early-career cybersecurity professional specializing in Security Operati
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 | Incident Handler's Journal      | <a href="https://github.com/godfreyndlovu/Incident-Handler-Journal/blob/main/README.md">Incident Handler Lab</a>|
 
-
 ### Tools
 
 #### Network
@@ -71,25 +70,20 @@ I am an early-career cybersecurity professional specializing in Security Operati
 - [Google Cybersecurity - Professional Certificate](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
 - [IT Support - Google Professional Certificate](https://www.credly.com/badges/d9627348-3f37-4dd3-84ee-bda9740eccbf/public_url)
 - [Cybersecurity Fundamentals - IBM SkillsBuild](https://www.credly.com/badges/a5cd010c-180c-491a-8fc5-d32b7efdf20c/public_url)
-<h2> </h2>
 
-<h2>📺 Formal Education</h2>
+### Formal Education
 
 - Bsc in Cybersecurity - IU International University of Applied Sciences
-- B.Eng in Chemical Engineering - National University of Science and Technology
-  - Relevant Coursework: Computer Science and Programming
 
-
-## Notable Soft Skills
+### Soft Skills
 - Highly Adaptable
 - Strong written and verbal communication skills
-- Problem Solving Ability 
+- Problem Solving 
 - Highly Collaborative
-- Curious Continuous Learner
+- Continuous Learner
 - Significant Business Acumen
-- Customer Service Orientation
 
-<h2> 🤳 Connect with me:</h2>
+### Connect with me 🤳
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
