@@ -9,10 +9,7 @@
 ### My Mission
 I am an early-career cybersecurity professional specializing in Security Operations and Cloud Security. My mission is to protect digital ecosystems by integrating technical expertise with strategic security solutions, enabling businesses to thrive securely. I strive to empower organizations with resilient defenses, foster collaboration, and drive impactful security initiatives that ensure a safer cyber landscape and uninterrupted business operations.
   
-<h3> Cybersecurity Labs:</h3>
-<h2> 🧰 Skillsets </h2>
-
-List of skills and their associated projects.
+### Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -24,31 +21,29 @@ List of skills and their associated projects.
 | SIEM Querying with Splunk and Chronicle | SIEM Detection Lab|
 | Incident Handler's Journal      | <a href="https://github.com/godfreyndlovu/Incident-Handler-Journal/blob/main/README.md">Incident Handler Lab</a>|
 
-<h2> 🛠️ Tools </h2>
+### Tools
 
-This is a breakdown of the tools in my toolkit.
-
-### Network
+#### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+#### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+#### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+### Certifications
   
 <div>
 <a href="https://www.credly.com/badges/19126e04-48db-456e-b00e-3ddb1fb96be1/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
