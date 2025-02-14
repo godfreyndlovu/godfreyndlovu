@@ -91,8 +91,7 @@ I am an early-career cybersecurity professional specializing in Security Operati
   </a>
 
 ### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+
 
 ### Connect with me 🤳
 
