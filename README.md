@@ -3,18 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=400&size=22&duration=4500&pause=500&color=36454F&width=435&lines=Hello+there%2C+I'm+Godfrey+Ndlovu;Thank+you+for+stopping+by:)" alt="Thank you for stopping by!"/>
 </a>
 <div>
-                 <img src="terminal (2).gif" alt="About Me Terminal GIF"/>
+      <img src="terminal (2).gif" alt="About Me Terminal GIF"/>
 </div>
 
 
-<a href="https://linkedin.com/in/godfreyndlovu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-
-I am an early career cybersecurity professional specialized in Security Operations, Cloud Security and GRC.
-
-<h2> 👨‍💻 Projects Overview </h2>
-
+### My Mission
 I am an early-career cybersecurity professional specializing in Security Operations and Cloud Security. My mission is to protect digital ecosystems by integrating technical expertise with strategic security solutions, enabling businesses to thrive securely. I strive to empower organizations with resilient defenses, foster collaboration, and drive impactful security initiatives that ensure a safer cyber landscape and uninterrupted business operations.
   
 <h3> Cybersecurity Labs:</h3>
