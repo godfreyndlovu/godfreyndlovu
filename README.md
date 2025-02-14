@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A0A0A,100:3C4142&text=Welcome%20to%20my%20Github&fontAlign=50&fontSize=35&fontAlignY=37&fontColor=FFFFFF&animation=twinkling" alt="header"/> 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=36454F&width=435&lines=Hello+there%2C+I'm+Godfrey+Ndlovu:);Thank+you+for+stopping+by!" alt="Thank you for stopping by!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3C3828&width=435&lines=Hello+there%2C+it's+Godfrey+Ndlovu;Thank+you+for+stopping+by:)" alt="Thank you for stopping by!"/>
 </a>
+36454F
+3C3828
 
 
 
