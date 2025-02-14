@@ -51,7 +51,7 @@ I am an early-career cybersecurity professional specializing in Security Operati
 [![Learning](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 #### Languages and CLIs
-[![Learning](https://skillicons.dev/icons?i=python,bash,powershell)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python,sqlite,bash,powershell)](https://skillicons.dev)
 </div>
 
 ### Certifications
@@ -88,6 +88,10 @@ I am an early-career cybersecurity professional specializing in Security Operati
   <a href="https://medium.com/@godfrey.ndlovu">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
   </a>
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
 ### Connect with me 🤳
 
