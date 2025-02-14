@@ -11,12 +11,11 @@
 
 
 
-I am an aspiring Security Analyst with a profound interest in IT security and Azure Cloud.
+I am an early career cybersecurity professional specialized in Security Operations, Cloud Security and GRC.
 
 <h2> 👨‍💻 Projects Overview </h2>
 
-In my IT journey, I've committed to developing my expertise in cybersecurity, with a special focus on Azure cloud. I'm keen on securing entry-level roles in Security Operations Center (SOC) as a Tier 1 Analyst, or in junior Cloud/System Administration.
-My project portfolio underscores my skillset across the three aforementioned IT domains.
+I am an early-career cybersecurity professional specializing in Security Operations and Cloud Security. My mission is to protect digital ecosystems by integrating technical expertise with strategic security solutions, enabling businesses to thrive securely. I strive to empower organizations with resilient defenses, foster collaboration, and drive impactful security initiatives that ensure a safer cyber landscape and uninterrupted business operations.
   
 <h3> Cybersecurity Labs:</h3>
 <h2> 🧰 Skillsets </h2>
