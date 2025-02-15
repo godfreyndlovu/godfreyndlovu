@@ -97,8 +97,8 @@ I am an early-career cybersecurity professional specializing in Security Operati
   </a>
 
 ### Employer?
-- [Download My Resume ▼](https://www.credly.com/badges/77358e83-217a-49c2-a6a9-00b5503c4584/public_url)
-
+- [Download My Resume ▼](https://drive.google.com/file/d/1lWYWDQ5O75UgFAY7EENgMdUX6Uq4_4Qk/view?usp=sharing)
+  
 ### Connect with me 🤳
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
