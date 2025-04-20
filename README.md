@@ -45,13 +45,16 @@ I am an early-career cybersecurity professional specializing in Security Operati
      <img src="https://img.shields.io/badge/-Chronicle-00610e?&style=for-the-badge&logo=Chronicle&logoColor=white" />
 
 #### Cloud Platforms
-[![Learning](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=azure,gcp,aws)](https://skillicons.dev)
 
 #### Operating Systems
 [![Learning](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 #### Languages and CLIs
 [![Learning](https://skillicons.dev/icons?i=python,sqlite,bash,powershell)](https://skillicons.dev)
+
+#### Other Tools
+[![Learning](https://skillicons.dev/icons?i=git,github,terraform)](https://skillicons.dev)
 </div>
 
 ### Certifications
@@ -59,8 +62,10 @@ I am an early-career cybersecurity professional specializing in Security Operati
 <div>
 <a href="https://www.credly.com/badges/19126e04-48db-456e-b00e-3ddb1fb96be1/linked_in_profile">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/GodfreyNdlovu-1155/720AF70E2C2F9CB9?sharingId=4A8D1C963BE0F953" />
+    <img src="https://img.shields.io/badge/AZ--500:_Microsoft%20Security%20Engineer%20Associate-blue?style=for-the-badge&logo=azure" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/GodfreyNdlovu-1155/937B092EF1A34EAD?sharingId=4A8D1C963BE0F953" />
-    <img src="https://img.shields.io/badge/SC--200:_Microsoft%20Security%20Operations-blue?style=for-the-badge&logo=microsoft" />
+    <img src="https://img.shields.io/badge/SC--200:_Microsoft%20Security%20Operations-blue?style=for-the-badge&logo=microsoft" />    
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/GodfreyNdlovu-1155/DA236E05AC868E6D?sharingId=4A8D1C963BE0F953">
     <img src="https://img.shields.io/badge/SC--900:_Microsoft%20Security,%20Compliance,%20and%20Identity-blue?style=for-the-badge&logo=microsoft" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/GodfreyNdlovu-1155/FBD585E1AC547568?sharingId=4A8D1C963BE0F953">
